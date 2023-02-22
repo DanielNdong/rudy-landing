@@ -1,0 +1,35 @@
+@import url("//db.onlinewebfonts.com/c/70f3e46b3bb904260d1b1a6e0f2edf08?family=HMSans-Regular");
+@import url("//db.onlinewebfonts.com/c/4e6e57c2a88df92df489202798f556de?family=HMSansLatin-Bold");
+@font-face {
+    font-family: "HMSans-Regular"; 
+    src: url("//db.onlinewebfonts.com/t/70f3e46b3bb904260d1b1a6e0f2edf08.eot"); 
+    src: url("//db.onlinewebfonts.com/t/70f3e46b3bb904260d1b1a6e0f2edf08.eot?#iefix") format("embedded-opentype"), 
+    url("//db.onlinewebfonts.com/t/70f3e46b3bb904260d1b1a6e0f2edf08.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/70f3e46b3bb904260d1b1a6e0f2edf08.woff") format("woff"), 
+    url("//db.onlinewebfonts.com/t/70f3e46b3bb904260d1b1a6e0f2edf08.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/70f3e46b3bb904260d1b1a6e0f2edf08.svg#HMSans-Regular") format("svg"); 
+}
+@font-face {
+    font-family: "HMSansLatin-Bold"; 
+    src: url("//db.onlinewebfonts.com/t/4e6e57c2a88df92df489202798f556de.eot"); 
+    src: url("//db.onlinewebfonts.com/t/4e6e57c2a88df92df489202798f556de.eot?#iefix") format("embedded-opentype"), 
+    url("//db.onlinewebfonts.com/t/4e6e57c2a88df92df489202798f556de.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/4e6e57c2a88df92df489202798f556de.woff") format("woff"), 
+    url("//db.onlinewebfonts.com/t/4e6e57c2a88df92df489202798f556de.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/4e6e57c2a88df92df489202798f556de.svg#HMSansLatin-Bold") format("svg"); }
+
+    *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "HMSans-Regular"; 
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+main{
+    max-width: 1100px;
+    margin: auto;
+}
+footer{
+    max-width: 1100px;
+    margin: auto;
+}
